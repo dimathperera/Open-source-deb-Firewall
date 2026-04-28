@@ -29,7 +29,11 @@ This firewall implements a default-allow policy (traffic is allowed unless expli
 
 # System Requirements
 OS: Linux (Kali Linux recommended)
+
 Kernel: nftables support required
+
 Python: 3.6 or higher
+
 RAM: < 50MB (lightweight design)
+
 Disk: < 10MB
