@@ -34,6 +34,4 @@ Kernel: nftables support required
 
 Python: 3.6 or higher
 
-RAM: < 50MB (lightweight design)
-
-Disk: < 10MB
+python scapy
