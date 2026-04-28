@@ -1,4 +1,5 @@
-!/usr/bin/env python3
+
+#!/usr/bin/env python3
 # Kali Linux Firewall using nftables (NO DEFAULT BLOCKING)
 
 import json
@@ -420,3 +421,4 @@ if __name__ == "__main__":
                 print("[ERROR] Invalid option\n")
     except KeyboardInterrupt:
         print("\n\n[WARN] Interrupted!")
+        fw.cleanup(None, None)
