@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 # Kali Linux Firewall using nftables (NO DEFAULT BLOCKING)
 
