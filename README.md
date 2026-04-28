@@ -4,8 +4,11 @@ A lightweight, CLI-based firewall for Linux using nftables, designed as part of 
 
 # Course Information
 Course: HND Network Programming and Designing
+
 Project: Basic Firewall with Traffic Filtering and Monitoring
+
 Type: Coursework Project
+
 Design Philosophy: Lightweight, CLI-based, educational focus
 
 # Project Overview
@@ -13,10 +16,15 @@ This firewall implements a default-allow policy (traffic is allowed unless expli
 
 # Key Features
  Basic packet filtering (TCP, UDP, ICMP)
+ 
  Real-time traffic monitoring
+ 
  Persistent rule storage (JSON)
+ 
  Automatic rule restoration
+ 
  Simple CLI interface
+ 
  Minimal dependencies
 
 # System Requirements
