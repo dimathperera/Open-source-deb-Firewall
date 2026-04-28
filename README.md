@@ -27,7 +27,7 @@ Key Features
 
  Minimal dependencies
 
-System Requirements
+  System Requirements
 OS: Linux (Kali Linux recommended)
 
 Kernel: nftables support required
